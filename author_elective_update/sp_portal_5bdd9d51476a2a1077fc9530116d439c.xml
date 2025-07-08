@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <alternate_portal/>
+        <communication_channels/>
+        <css_variables/>
+        <dark_theme/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage/>
+        <icon/>
+        <inactive>false</inactive>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="kb_view2">26c2e030d7201200a9addd173e24d437</kb_knowledge_page>
+        <login_page/>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <rtl_enabled>false</rtl_enabled>
+        <sc_catalog/>
+        <sc_catalog_page display_value="sc_home">fe87a11147132100ba13a5554ee490b9</sc_catalog_page>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-04 07:34:50</sys_created_on>
+        <sys_id>5bdd9d51476a2a1077fc9530116d439c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Portal Meum</sys_name>
+        <sys_package display_value="Grobal" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grobal">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_portal_5bdd9d51476a2a1077fc9530116d439c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 02:07:31</sys_updated_on>
+        <theme display_value="Stock - High Contrast">f84873986711320023c82e08f585ef6a</theme>
+        <title>Portal Meum</title>
+        <ts_index_group/>
+        <url_suffix>pm</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=5bdd9d51476a2a1077fc9530116d439c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>fce9edd73b142210986d048aa4e45a4d</instance_id>
+        <instance_name>dev304492</instance_name>
+        <name>sp_portal_5bdd9d51476a2a1077fc9530116d439c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><alternate_portal/><communication_channels/><css_variables/><dark_theme/><default>false</default><enable_ais>false</enable_ais><enable_certificate_based_authentication>false</enable_certificate_based_authentication><enable_favorites>false</enable_favorites><hide_portal_name>false</hide_portal_name><homepage/><icon/><inactive>false</inactive><kb_knowledge_base/><kb_knowledge_page display_value="kb_view2">26c2e030d7201200a9addd173e24d437</kb_knowledge_page><login_page/><logo/><notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page><quick_start_config/><rtl_enabled>false</rtl_enabled><sc_catalog/><sc_catalog_page display_value="sc_home">fe87a11147132100ba13a5554ee490b9</sc_catalog_page><sc_category_page/><search_application/><search_results_configuration/><sp_chat_queue/><sp_rectangle_menu display_value="SP Header Menu">d150fd31cb10020000f8d856634c9ce6</sp_rectangle_menu><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-07-04 07:34:50</sys_created_on><sys_id>5bdd9d51476a2a1077fc9530116d439c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Portal Meum</sys_name><sys_package display_value="Grobal" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="Grobal">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sp_portal_5bdd9d51476a2a1077fc9530116d439c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-07-07 02:07:31</sys_updated_on><theme display_value="Stock - High Contrast">f84873986711320023c82e08f585ef6a</theme><title>Portal Meum</title><ts_index_group/><url_suffix>pm</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=5bdd9d51476a2a1077fc9530116d439c"/></record_update>]]></payload>
+        <payload_hash>-89595867</payload_hash>
+        <record_name>Portal Meum</record_name>
+        <reverted_from/>
+        <source>4d730f74476aa61077fc9530116d4360</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 02:07:31</sys_created_on>
+        <sys_id>6cf0ff0a47a2221077fc9530116d4397</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197e2a36f800000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 02:07:31</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>60f0bf868aa22210ed6d2d4e3e3a8d43</update_guid>
+        <update_guid_history>60f0bf868aa22210ed6d2d4e3e3a8d43:-89595867,921f19d11a6a2a105791982bb87b0741:-1075929619</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Portal Meum">2be5b7ce47a2221077fc9530116d437a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-07 02:29:18</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>0a8ade8d8a3b44908c81987780334510</sys_id>
+        <sys_metadata>5bdd9d51476a2a1077fc9530116d439c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Meum</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sp_portal_5bdd9d51476a2a1077fc9530116d439c</sys_update_name>
+        <sys_update_version display_value="sp_portal_5bdd9d51476a2a1077fc9530116d439c">6cf0ff0a47a2221077fc9530116d4397</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-07 02:29:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
